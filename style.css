@@ -1,0 +1,30 @@
+
+body {
+    font: 20px arial serif ;
+    
+}
+
+.navbar {
+    background-color: rgb(116, 107, 107);
+}
+
+.home {
+    background-color: rgb(51, 43, 43);
+    color: rgb(199, 160, 160);
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.quem-somos {
+    background-color: rgb(36, 34, 32);
+    color: white;
+    padding: 20px;
+}
+
+.foot {
+    background-color: black;
+    color: whitesmoke;
+}
